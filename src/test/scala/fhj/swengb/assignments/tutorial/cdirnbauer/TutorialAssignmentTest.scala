@@ -1,5 +1,6 @@
-package fhj.swengb.assignments.tutorial.dirnbaue14
+package fhj.swengb.assignments.tutorial.cdirnbauer
 
+import fhj.swengb.assignments.tutorial.cdirnbauer.TutorialAssignment
 import org.junit.Assert._
 import org.junit.Test
 
